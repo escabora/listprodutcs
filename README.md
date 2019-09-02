@@ -14,12 +14,12 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 - Utilização [Rest Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/rest_parameters) para manipular objetos;
 - Manipulação de Routas;
 - Introdução a Linguagem [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html);
-<br>
+
 ### Recursos
 #### Dependences
 - [Node js](https://nodejs.org/en/)
 - [React Create APP](https://github.com/facebook/create-react-app)
-<br>
+
 #### Plugins utilizados
 - [React](https://www.npmjs.com/package/react)
 - [React DOM](https://www.npmjs.com/package/react-dom)
