@@ -12,7 +12,7 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 - Trabalhar com extends [Class Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#targetText=A%20class%20component%20requires%20you,you%20will%20see%20later%20on.);
 - Armazenamento de estados com [State](https://pt-br.reactjs.org/docs/state-and-lifecycle.html);
 - Utilização [Rest Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/rest_parameters) para manipular objetos;
-- Manipulação de Routas;
+- Manipulação de Rotas;
 - Introdução a Linguagem [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html);
 
 ### Recursos
